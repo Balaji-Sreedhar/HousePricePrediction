@@ -24,6 +24,7 @@ Conclusions
 After applying the techniques alpha value for lasso Regression is 0.001 and the Regression value is 0.89 with the final model
 
 Technologies Used
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
